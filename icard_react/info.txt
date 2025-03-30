@@ -1,0 +1,12 @@
+
+info
+
+Estilos:
+
+UI de Chakra : Muy flexible y compatible con React 18+.
+Material-UI (MUI) : Ampliamente utilizado y bien mantenido.
+Ant Design : Otra opción robusta y compatible.
+
+
+
+
